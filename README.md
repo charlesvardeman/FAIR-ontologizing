@@ -15,3 +15,4 @@ For more information on creating FAIR ontologies, please read the excellent [Bes
 * [Widoco](https://github.com/dgarijo/Widoco)
 * [rdflint](https://github.com/imas/rdflint)
 * [rdflint github action](https://github.com/imas/setup-rdflint)
+* [Hugo Github Action](https://github.com/marketplace/actions/action-hugo)
